@@ -1,0 +1,5 @@
+- 👋 Hi, I’m 0MoonEclipse0
+- 👀 I’m interested in gamedev
+- 🌱 I’m currently learning amd64 assembly
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: ive been learnig programming for about 2 Years
